@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eugeniosanchezcrespillo
-- 👀 I’m interested in Javascript, React, Vue, Web development, Linux, Devops, ...
+- 👀 I’m interested in Python, Javascript, React, Vue, Web development, Linux, Devops, ...
 - 🌱 I’m currently learning React and Lpic 1
 - 💞️ I’m looking to collaborate on Useful Projects
 - 📫 How to reach me eugenio dot sanchez @ gmail dot com
